@@ -1,4 +1,4 @@
-# Add a new Feature to project workflow
+# Add a new Feature to project on github
 ---
 ### Requirements
 1. A github Account
