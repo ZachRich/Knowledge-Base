@@ -1,4 +1,4 @@
-#Configure old router as WDS Client
+# Configure old router as WDS Client
 ---
 ### Requirements
 1. 2 Routers with WDS.
