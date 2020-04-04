@@ -1,6 +1,6 @@
 #Configure old router as WDS Client
 ---
-###Requirements
+### Requirements
 1. 2 Routers with WDS.
 2. Both routers in same IP range
 3. Disable DHCP server on the secondary router.
