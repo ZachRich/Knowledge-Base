@@ -1,6 +1,6 @@
-#Add a new Feature to project workflow
+# Add a new Feature to project workflow
 ---
-###Requirements
+### Requirements
 1. A github Account
 2. A project you want to contribute to
 3. Github integrated into your IDE of choice
