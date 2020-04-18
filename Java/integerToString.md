@@ -21,6 +21,6 @@ String s1 = String.valueOf(c);
 ```java
 int f = 1234;
 StringBuilder sb = new StringBuilder();
-sb.append(g);
+sb.append(f);
 String s1 = sb.toString();
 ```
