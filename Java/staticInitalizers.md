@@ -25,7 +25,6 @@ static {
 This code sets the B and H static variables to an integer greater then 0. If they dont follow these bounds, an exception is thrown.
 
 ### Why would we use a static initializer?
-Firstly, you might never have any instances of your class. Or you might want to have the static members iniailized before you have any instances of the class.
 
 Firstly, you might never have any instances of your class. Or you might want to have the static members iniailized before you have any instances of the class.
 
