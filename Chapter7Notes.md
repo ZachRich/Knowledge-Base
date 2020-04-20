@@ -55,4 +55,6 @@ Who: Blaise Diagne
 - From a young age, Blaine was trusted to Adolphe Crespin.
 - Adolph Crespin was a member of a prominent metis family in saint louis.
 - Adoplhes brother Jean was a skilled lawyer and was a representative in electoral politics. 
-- 
+- In 1892 blaise diagne got a job at the french customs service 
+- He began working in Benin, west africa and then moved onto the french congo, gabon, and then the indian ocean (Reunion and Madagascar)
+- He ended his career in customs service in french guiana.
