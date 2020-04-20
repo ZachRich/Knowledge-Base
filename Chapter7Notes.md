@@ -84,5 +84,21 @@ Who: Blaise Diagne
 
 ---
 
-### The 
+### The path to Full Citizenship
+- As world war I transformed from a regional conflict to a global war that affected western europe and their colonies, this brought the issue of full legal status for originaires to the forefront of colonial politics. 
+- Before this, muslim originaires couldnt serve in the french army and were forced to serve in all african units. 
+- This gave them the chance to prove their loyalty and equalit to france. 
+- Senegaleese enlistment numbers fell as young men moved to the communes to avoid serving.
+- Diagne got key leaders of the originaires to encourage young senegaleese men tio enlist.
+- On April 1st, he argued that originaires had the right to enlist in the regular french army and supported his argument that by his own election confirmed the status of originaires as full french citizens. 
+- Once france passed the bill, Diagne has to persuade originaires to join the french army and persude africans to join the colonial troops. 
+- The law only resolved diagnes military service and not the right of citizenship so he brought up it up again in september 1916 before the chamber and it passed both houses without debate. 
+- This was a huge step because it affirmed the legal status of black african commune residents regardless of religion and confirmed over a half century of arguments by commune residents for their help in expanding frances influence in the reigon.
+- Diagne was appointed the special task of recruiting masses of african subjects to help france in its time of need during the war, once again affirming their loyalty to france. 
+- Before diagne left to do this he made sure that everyone who served would be given the opportunity to applu for french citizenship to have the same rights as originaires.
+
+--- 
+
+### The Ambiguites of French Citizenship
+- 
 
