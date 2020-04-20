@@ -100,5 +100,14 @@ Who: Blaise Diagne
 --- 
 
 ### The Ambiguites of French Citizenship
-- 
+- Diagne spend the rest of his career in the chamber of deputies in paris. He wont reelection to the legislative  seat in 1928, and again in 1932.
+- Diagne focused his efforts on the francophone african community and not fighting for the racial unity between africa and its world wide diaspora.
+- in 1924, Rene maran published an article accusing Diagne of accepting bribes for every soldier he got to fight for france in the war ... Diagne won the case.
+- Blaise diagne represented france in africa, not just to represent senegal in france. 
+- His life also embodied french colonialisms contradiction where univeral rights were given while they practiced racial exclusion. 
+- He fought against french prejudice and exclusion and used all of his connections to gain rights for people of color in france and africa and transformed french politics forever.
+- He fought for french citizenship for full blooded senegalese, muslims and christians to obtain full french citizenship.
+- He also changed senegalese electoral politics.
+- Diaqne paved the way for nationalist leaders lie lamine gueye and leopold sedar senghor who negotiated senegals independace from france after world war II
+
 
