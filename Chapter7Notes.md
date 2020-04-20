@@ -50,7 +50,7 @@ Who: Blaise Diagne
 
 --- 
 
-### Blaine Diagne
+### Blaise Diagne
 - Born and raised: Goree island.
 - From a young age, Blaine was trusted to Adolphe Crespin.
 - Adolph Crespin was a member of a prominent metis family in saint louis.
