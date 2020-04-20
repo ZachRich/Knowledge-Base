@@ -54,4 +54,5 @@ Who: Blaise Diagne
 - Born and raised: Goree island.
 - From a young age, Blaine was trusted to Adolphe Crespin.
 - Adolph Crespin was a member of a prominent metis family in saint louis.
+- Adoplhes brother Jean was a skilled lawyer and was a representative in electoral politics. 
 - 
