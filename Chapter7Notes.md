@@ -58,3 +58,11 @@ Who: Blaise Diagne
 - In 1892 blaise diagne got a job at the french customs service 
 - He began working in Benin, west africa and then moved onto the french congo, gabon, and then the indian ocean (Reunion and Madagascar)
 - He ended his career in customs service in french guiana.
+- He fought against racism and discrimination and defended the rights of african people everywhere. 
+- Diagne was granted entrance to the freemasons lodge in reunion, this helped him because the lodges members tended to hold high positions of power in the colonies. 
+- In 1908, Governer Augagneur of french equatorial africa tried to fire him and his fellow freemasons intervened.
+- Diagne married a french woman, accecpted french religious and political values, and had a high level of french education and was still ridiculed where ever he went.
+- Diagne eventually ran as a candidate for the 1914 race for the deputy position of senegal. 
+- The one problem with this is he was well known in france but he wasnt well known in senegal. 
+
+
