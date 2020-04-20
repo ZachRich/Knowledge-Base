@@ -65,4 +65,24 @@ Who: Blaise Diagne
 - Diagne eventually ran as a candidate for the 1914 race for the deputy position of senegal. 
 - The one problem with this is he was well known in france but he wasnt well known in senegal. 
 
+--- 
+
+### Senegal's First Black African Deputy
+- Diagne left france and came back to french guiana and started to study for the customs inspector qualifying exam.
+- He faced a problem where the metis families and interest groups in the communes already were voting for members of their groups.
+- He started by winning the vote of the Lebou community of Dakar and Rufisque, he then turned his attention to saint louis to get a base of old mulatto families voting for him. 
+- The jeunes Sengalaise were a group of french educated men who were interested in breaking the french and metis hold on electoral politics. 
+- They decided to back Blaise because he could talk to the french and fight for their rights as french citizens while also appealing to the africans.
+- To reach senegalese voters who didnt live in the communes he traveled to small villages and railway towns.
+- He won these people over by promising to address their concerns over the unjust and racist policies by the administration.
+- Diagne levereged meeting with people on a more personal level using palabres (Community gatherings) to address their personal issues and not just limit it to certain topics.
+- Diagne also leverged his relationship with the Jeunes Senegalaise and their newpaper "La Democratie" to gather support.
+- They wrote about how he would fight for the political and legal rights of the originaires  and compensation for lebou whos land was confiscated to build Dakar. 
+- He eventually won the election and this was very significant because it broke the metis's and french merchant firms hold on commune politics. 
+- This victory also raised the issue of citizenship for black african commune residents to the forefront of colonial politics.
+- It also marked the moment where the young members of the commune overcame the older more conservative generation. (Metis families and french)
+
+---
+
+### The 
 
