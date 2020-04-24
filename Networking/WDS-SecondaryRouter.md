@@ -21,4 +21,4 @@
 12. Click on survey (Shows networks around you)
 13. Click connect to secondary router
 14. Enter password to secondary router
-15. Save configs and reboot the router.
+15. Save configs and reboot the router!
