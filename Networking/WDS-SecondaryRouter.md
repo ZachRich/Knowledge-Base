@@ -6,7 +6,7 @@
 3. Disable DHCP server on the secondary router.
 4. Enable WDS on any router preferably primary router.
 
-### WorkFlow
+### Steps
 1. Connect to secondary router
 2. Login when prompted
 3. Go to wireless settings
